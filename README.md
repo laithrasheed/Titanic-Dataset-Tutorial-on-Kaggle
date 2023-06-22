@@ -1,1 +1,1 @@
-# Titanic-Dataset-Tutorial-on-Kaggle.
+# Titanic-Dataset-Tutorial-on-Kaggle
